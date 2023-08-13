@@ -21,7 +21,7 @@ You must be at least 18 years of age to create an account on PickMe and use the 
 
 *   You can form a binding contract with PickMe;
 *   You are not a person who is barred from using the Service under the laws of the United States or any other applicable jurisdiction–meaning that you do not appear on the U.S. Treasury Department's list of Specially Designated Nationals or face any other similar prohibition;
-*   You will comply with this Agreement and all applicable local, state, national and international laws, rules and regulation
+*   You will comply with this Agreement and all applicable local, state, national and international laws, rules and regulations.
 
 You should be aware that there are certain things that Unox Limited will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Unox Limited cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
