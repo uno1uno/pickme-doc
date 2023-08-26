@@ -23,6 +23,23 @@ You must be at least 18 years of age to create an account on PickMe and use the 
 *   You are not a person who is barred from using the Service under the laws of the United States or any other applicable jurisdiction–meaning that you do not appear on the U.S. Treasury Department's list of Specially Designated Nationals or face any other similar prohibition;
 *   You will comply with this Agreement and all applicable local, state, national and international laws, rules and regulations.
 
+**Compensated Dating or Companionship**
+
+Any form of compensated dating or companionship is strongly forbidden in PickMe. There is no tolerance for objectionable content or abusive users. We do not tolerate offensive profile content such as:
+
+*   Offering money for dates;
+*   Sexual offers;
+*   Requests that are disrespectful;
+*   Pictures who are considered nudes, or have sexual implications;
+*   Anything related to companionship or paid dating or paid content;
+*   Anything (text or images) that could be interpreted as racist or discriminating regarding race, sex or groups of people;
+*   Content that implies or idealize violence in any kind of form;
+*   Offering money for anything, such as allowances or paid content;
+*   Promises that we consider unreal;
+*   Expecting gifts in exchange for dates;
+
+You will be banned from using the app immediately once the hehaviors mention above is discovered.
+
 You should be aware that there are certain things that Unox Limited will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Unox Limited cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
 If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
