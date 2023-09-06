@@ -23,20 +23,20 @@ You must be at least 18 years of age to create an account on PickMe and use the 
 *   You are not a person who is barred from using the Service under the laws of the United States or any other applicable jurisdiction–meaning that you do not appear on the U.S. Treasury Department's list of Specially Designated Nationals or face any other similar prohibition;
 *   You will comply with this Agreement and all applicable local, state, national and international laws, rules and regulations.
 
-**Compensated Dating or Companionship**
+**Interactions with Other Users**
 
-Any form of compensated dating or companionship is strongly forbidden in PickMe. There is no tolerance for objectionable content or abusive users. We do not tolerate offensive profile content such as:
+You agree to treat other users in a courteous and respectful manner, both on and off our Services. You should acknowledge that you are solely responsible for your interaction with other users. You understand that we do not conduct criminal background checks on users or otherwise inquire into the background of users. PickMe makes no representation or warranties as to the conduct or compatibility of other users.
 
-*   Offering money for dates;
-*   Sexual offers;
+**Abusive Behaviors**
+
+There is no tolerance for objectionable content or abusive users in PickMe. We do not tolerate offensive profile content, including but not limited to:
+
 *   Requests that are disrespectful;
 *   Pictures who are considered nudes, or have sexual implications;
-*   Anything related to companionship or paid dating or paid content;
-*   Anything (text or images) that could be interpreted as racist or discriminating regarding race, sex or groups of people;
+*   Anything related to companionship;
+*   Sexual offers;
+*   Content that could be interpreted as racist or discriminating regarding race, sex or groups of people;
 *   Content that implies or idealize violence in any kind of form;
-*   Offering money for anything, such as allowances or paid content;
-*   Promises that we consider unreal;
-*   Expecting gifts in exchange for dates;
 
 You will be banned from using the app immediately once the hehaviors mention above is discovered.
 
